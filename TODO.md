@@ -14,3 +14,7 @@
 
 4. Write simple UI utility to maintain JSON data file 
 
+5. Create database schema to store data 
+  a. Postgres 
+
+
