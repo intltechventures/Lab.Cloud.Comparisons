@@ -6,9 +6,9 @@ For example:
 
 ## Cloud Services - Comparison Matrix
 
-|Service Category | Sub-Category    | Alibaba           | AWS               | Azure              | GCP                   | OCI               | Salesforce            | ServiceNow            |
-|-----------------|-----------------|-------------------|-------------------|--------------------|-----------------------|-------------------|-----------------------|-----------------------|
-Compute           |Serverless       | Function Compute  | AWS Lambda        | Azure Functions    | Cloud Run functions   | Cloud Functions   | Salesforce Functions  | N/A
+|Service Category | Sub-Category    | Alibaba           | AWS               | Azure              | GCP                   | OCI               | Salesforce                    | ServiceNow            |
+|-----------------|-----------------|-------------------|-------------------|--------------------|-----------------------|-------------------|-------------------------------|-----------------------|
+Compute           |Serverless       | Function Compute  | AWS Lambda        | Azure Functions    | Cloud Run functions   | Cloud Functions   | Salesforce Functions (RETIRED)| N/A
 
 
 
