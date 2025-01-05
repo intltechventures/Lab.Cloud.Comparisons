@@ -22,7 +22,22 @@
 
 ### OCI 
 
+
 ### Salesforce
+
+- https://developer.salesforce.com/docs
+
+- https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm
+
+- https://salesforce.stackexchange.com/
+
+#### blog posts
+- 2019
+  + https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen
+- 2024
+  + https://devcenter.heroku.com/articles/salesforce-functions-retirement
+    * End of Sale (EOS): 2023-10-31 
+    * End of Renewal: 2024-01-31 
 
 ### ServiceNow 
 
