@@ -1,0 +1,17 @@
+{"cloud_comparison_data": {
+  "entry": {
+      "category": "Compute",
+      "sub-category": "Serverless",
+      "type": "Product",
+      "provider": "AWS",
+      "link_home": "https://aws.amazon.com/lambda/",
+      "link_features": "https://aws.amazon.com/lambda/features/", 
+      "link_faqs": "https://aws.amazon.com/lambda/faqs/",
+      "link_docs": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "link_docs_limits": "https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html",
+      "link_pricing": "https://aws.amazon.com/lambda/pricing/",
+      "date_launched": "YYYY-MM-DD",
+      "date_sunset": "",
+      "date_retired": ""
+  }
+}
