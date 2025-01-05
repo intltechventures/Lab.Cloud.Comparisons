@@ -4,7 +4,8 @@ This small side project is intended to provide a mechanism for easily managing a
 
 For example: 
 
-## Cloud Services - Comparison Matrix
+
+## Cloud Services - Comparison Matrix - EXAMPLE 
 
 |Service Category | Sub-Category    | Alibaba           | AWS               | Azure              | GCP                   | OCI               | Salesforce                    | ServiceNow            |
 |-----------------|-----------------|-------------------|-------------------|--------------------|-----------------------|-------------------|-------------------------------|-----------------------|
@@ -18,7 +19,6 @@ Compute           |Serverless       | Function Compute  | AWS Lambda        | Az
 - Information stored & managed directly in JSON files 
 - simple UI, and command line utlities 
 
-
 ### Version 2.0 
 - Information stored & managed a relational (or graph) database 
 
@@ -26,4 +26,5 @@ Compute           |Serverless       | Function Compute  | AWS Lambda        | Az
 ### Version 3.0 
 - Web UI, with a microservices architecture 
 
-
+    
+Also see: [TODO.md](TODO.md)
