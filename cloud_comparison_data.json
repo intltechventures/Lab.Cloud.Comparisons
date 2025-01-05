@@ -1,17 +1,25 @@
 {"cloud_comparison_data": {
   "entry": {
       "category": "Compute",
-      "sub-category": "Serverless",
-      "type": "Product",
+      "sub_category": "Serverless",
+      "offering_type": "Product",
+      "infrastructure_type:": "FaaS", 
       "provider": "AWS",
+      "name": "AWS Lambda",
+      "description": "AWS Lambda is an event-driven, serverless Function as a Service (FaaS) provided by Amazon as a part of Amazon Web Services. It is designed to enable developers to run code without provisioning or managing servers. It executes code in response to events and automatically manages the computing resources required by that code.",
+      "comment": "",
       "link_home": "https://aws.amazon.com/lambda/",
       "link_features": "https://aws.amazon.com/lambda/features/", 
       "link_faqs": "https://aws.amazon.com/lambda/faqs/",
       "link_docs": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
       "link_docs_limits": "https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html",
       "link_pricing": "https://aws.amazon.com/lambda/pricing/",
-      "date_launched": "YYYY-MM-DD",
+      "link_wikipedia": "https://en.wikipedia.org/wiki/AWS_Lambda", 
+      "date_launched": "2014-11-13",
       "date_sunset": "",
-      "date_retired": ""
+      "date_retired": "",
+      "keywords": "TODO: create array",
+      "link_array": "TODO: create link array", 
+      "TRM_Status": "Approved" 
   }
 }
