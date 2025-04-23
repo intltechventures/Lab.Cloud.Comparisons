@@ -13,6 +13,9 @@
 
 - https://www.oracle.com/cloud/service-comparison/
 
+- https://comparecloud.in/
+  + https://github.com/ilyas-it83/CloudComparer/
+
 
 
 
