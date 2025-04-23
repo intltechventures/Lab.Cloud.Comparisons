@@ -9,18 +9,30 @@
 - https://json-schema.org/
 
 
+## Cloud Service Comparison Resources
+
+- https://www.oracle.com/cloud/service-comparison/
+
+
+
+
 
 ## Cloud Service Provider Details 
 
 ### Alibaba
 
+
 ### AWS 
+
 
 ### Azure 
 
+
 ### GCP 
 
+
 ### OCI 
+- https://www.oracle.com/cloud/service-comparison/
 
 
 ### Salesforce
@@ -31,6 +43,7 @@
 
 - https://salesforce.stackexchange.com/
 
+
 #### blog posts
 - 2019
   + https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen
@@ -39,6 +52,10 @@
     * End of Sale (EOS): 2023-10-31 
     * End of Renewal: 2024-01-31 
 
+
 ### ServiceNow 
+
+
+
 
  
